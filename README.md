@@ -2,7 +2,7 @@
 
 Repositorio plantilla profesional diseñado específicamente para demostraciones en vivo de **Desarrollo Acelerado con Inteligencia Artificial** y **Continuous Delivery (CI/CD)** con **GitHub**, **Docker Multi-Stage** y **Dokploy**.
 
----
+---__
 
 ## 🎯 El Concepto de la MasterClass (De Cero a Cien con IA)
 
